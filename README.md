@@ -11,7 +11,7 @@ Set your OSX desktop wallpaper as nasa apod(Astronomy picture of the day).
 3. Give Executable permission to the .sh script using. 
    chmod u+rw wallpaper.sh
    
-4. Run the script wallpaper.sh  by double clicking.
+4. Run the script wallpaper.sh  in the terminal. You can also double click and set the terminal to open shell scripts by          default.
 
 ## Contributing
 This script is very limited in what it does. Please recommend me any improvements to add.
