@@ -18,7 +18,7 @@ This script is very limited in what it does. Please recommend me any improvement
 
 ## Authors
 
-* ** Amarnath ** 
+* Amarnath  
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
